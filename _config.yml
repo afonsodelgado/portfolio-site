@@ -4,6 +4,12 @@ email: afonsodelgadoss@gmail.com
 description: Electronics Engineer / Software Dev
 bg-img: bg-img.jpg
 
+#accounts
+twitter-link: https://twitter.com/kdsopasir
+github-link: https://github.com/afonsodelgado
+facebook-link: https://www.facebook.com/afonso.delgado.1
+linkedin-link: https://www.linkedin.com/in/afonso-delgado-64859ab8/
+
 
 # Build settings
 markdown: kramdown
