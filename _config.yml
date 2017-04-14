@@ -1,0 +1,16 @@
+#Site settings
+title: Afonso Delgado
+email: afonsodelgadoss@gmail.com
+description: Electronics Engineer / Software Dev
+bg-img: bg-img.jpg
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
