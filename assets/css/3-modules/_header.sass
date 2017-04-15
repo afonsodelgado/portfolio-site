@@ -4,6 +4,8 @@ html, body
 
 header
   height: 100%
+  position: relative
+  text-align: center
 
   .logo
     float: left
@@ -46,3 +48,11 @@ header
       size: 20px
       weight: 700
     text-transform: uppercase
+
+  .bottom
+    display: inline-block
+    bottom: 0
+    position: absolute
+
+    svg:hover path
+      fill: $accent
