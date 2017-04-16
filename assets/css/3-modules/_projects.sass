@@ -26,9 +26,13 @@
     text-align: center
     +clearfix
     .user-projects
-      +size(780px)
+      max-width: 780px
+      max-height: 780px
       display: inline-block
       +clearfix
+
+      h5, li, p
+        padding-left: 20px
 
       .text-proj1
         float: left
